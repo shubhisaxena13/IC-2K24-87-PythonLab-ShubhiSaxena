@@ -1,4 +1,3 @@
-```python
 balance = 5000
 pin = "1234"
 
@@ -78,4 +77,3 @@ def atm():
 
 
 atm()
-```
